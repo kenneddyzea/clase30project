@@ -1,2 +1,2 @@
 # clase30project
-trabajo practico online 
+trabajo practico online | edito
